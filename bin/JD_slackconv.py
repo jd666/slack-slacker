@@ -1,5 +1,8 @@
 #! /usr/bin/env python
-''' merge slack channel export files into a channel log '''
+'''
+# Author: Achim Dreyer <jd666@users.noreply.github.com>
+# merge slack channel export files into a channel log
+'''
 
 from __future__ import print_function
 import argparse
