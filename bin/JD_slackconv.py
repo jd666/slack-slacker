@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 '''
-# Author: Achim Dreyer <jd666@users.noreply.github.com>
+# Author: Achim Dreyer <1019082+jd666@users.noreply.github.com>
 # merge slack channel export files into a channel log
 '''
 
